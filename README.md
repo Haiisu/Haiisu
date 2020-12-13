@@ -5,9 +5,13 @@
 </div>  
   
 
-- **♓ Lover of Mathematics ♓
--♓ Fan of Mr. Robot ♓
--♓ C#/JS Lover ♓**  
+- **♓ Lover of Mathematics ♓**  
+  
+
+- **♓ Fan of Mr. Robot ♓**  
+  
+
+- **♓ C#/JS Lover ♓**  
   
 
 <br/>  
