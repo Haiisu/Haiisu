@@ -32,7 +32,15 @@
 </div>  
 
 <br/>  
+  
 
+<br/>  
+
+## Pinned Repositories
+### <div align="center">Take a look at my most outstanding repositories.
+
+
+</div>  
 
 ## Connect with me  
 <div align="center">
@@ -45,15 +53,7 @@
 <a href="https://instagram.com/mersix_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-## Pinned Repositories
-### <div align="center">Take a look at my most outstanding repositories.
-
-
+  My discord: ·𝓜𝓮𝓻𝓧·#3737
 </div>  
 
 <br />
