@@ -51,7 +51,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
- My discord: ༺·𝑀𝑒𝓇.𝓍𝟢·༻#6520
+ My discord: !  ӄǟʟɛʏ#0101
 
 
 <br />
