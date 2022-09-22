@@ -47,5 +47,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Haiisu/Haiisu/blob/output/snake.svg" alt="Snake animation" />
-
