@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Haiisu.Haiisu&left_color=black&right_color=black&left_text=Profile Views"  />
+  <img src="https://komarev.com/ghpvc/?username=haiisu&color=blueviolet"  />
 </div>
 
 ###
