@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">💻Mr. Robot, 💛Rubik Cubes, 🎲I love Mathematics, <br>🐍Python, ⚛ Physics.</h3>
+<h3 align="left">💻 Mr. Robot, 💛 Rubik Cubes, 🎲 I love Mathematics, <br>🐍 Python, ⚛ Physics, 🌟 Astronomy.</h3>
 
 ###
 
