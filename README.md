@@ -37,13 +37,3 @@
 
 ###
 
-<h1 align="center">Contact whit me!</h1>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-</div>
-
-###
-
