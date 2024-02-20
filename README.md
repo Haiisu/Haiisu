@@ -4,11 +4,10 @@
 
 ###
 
-<h1 align="left">BIO</h1>
+<h1 align="left">print("Hello World")</h1>
 
 ###
 
-<h3 align="left">💻 Mr. Robot, 💛 Rubik Cubes, 🎲 I love Mathematics, <br>🐍 Python, ⚛ Physics, 🌟 Astronomy.</h3>
 
 ###
 
