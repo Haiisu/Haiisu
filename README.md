@@ -1,7 +1,5 @@
 <br clear="both">
 
-<img align="left" height="220" src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif"  />
-
 ###
 
 <h1 align="left">print("Hello World")</h1>
